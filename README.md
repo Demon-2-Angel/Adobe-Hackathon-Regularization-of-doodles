@@ -1,4 +1,4 @@
-=# Curve Regularization, Symmetry Exploration, and Completion of Doodles
+# Curve Regularization, Symmetry Exploration, and Completion of Doodles
 
 ## Objective
 
